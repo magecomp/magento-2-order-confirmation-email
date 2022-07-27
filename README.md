@@ -99,22 +99,22 @@ Email: [support@magecomp.com](mailto:support@magecomp.com)
 
 ## Magento Marketplace Extension by MageComp
 
-[Sticky Add To Cart](https://marketplace.magento.com/magecomp-magento-2-sticky-add-to-cart.html)
+[Magento 2 Sticky Add To Cart](https://marketplace.magento.com/magecomp-magento-2-sticky-add-to-cart.html)
 
-[Out of Stock at Last](https://marketplace.magento.com/magecomp-magento-2-out-of-stock-at-last.html)
+[Magento 2 Out of Stock at Last](https://marketplace.magento.com/magecomp-magento-2-out-of-stock-at-last.html)
 
-[Hreflang Language](https://marketplace.magento.com/magecomp-magento-2-hreflang-language.html)
+[Magento 2 Hreflang Language](https://marketplace.magento.com/magecomp-magento-2-hreflang-language.html)
 
-[Shoppable Instagram](https://marketplace.magento.com/magecomp-magento-2-instagram-shoppable.html)
+[Magento 2 Shoppable Instagram](https://marketplace.magento.com/magecomp-magento-2-instagram-shoppable.html)
 
-[Cash On Delivery Extra Fee](https://marketplace.magento.com/magecomp-magento-2-cash-on-delivery-extra-fee.html)
+[Magento 2 Cash On Delivery Extra Fee](https://marketplace.magento.com/magecomp-magento-2-cash-on-delivery-extra-fee.html)
 
-[Instagram Integration Pro](https://marketplace.magento.com/magecomp-instapro.html)
+[Magento 2 Instagram Integration Pro](https://marketplace.magento.com/magecomp-instapro.html)
 
-[Order Status](https://marketplace.magento.com/magecomp-module-orderstatus.html)
+[Magento 2 Order Status](https://marketplace.magento.com/magecomp-module-orderstatus.html)
 
-[Axis Payment Gateway](https://marketplace.magento.com/magecomp-magento-2-axis-payment-gateway.html)
+[Magento 2 Axis Payment Gateway](https://marketplace.magento.com/magecomp-magento-2-axis-payment-gateway.html)
 
-[Coupon Code Link](https://marketplace.magento.com/magecomp-magento-2-coupon-code-link.html)
+[Magento 2 Coupon Code Link](https://marketplace.magento.com/magecomp-magento-2-coupon-code-link.html)
 
-[Custom Checkout Fields](https://marketplace.magento.com/magecomp-magento-2-custom-checkout-fields.html)
+[Magento 2 Custom Checkout Fields](https://marketplace.magento.com/magecomp-magento-2-custom-checkout-fields.html)
