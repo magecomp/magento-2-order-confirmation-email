@@ -77,4 +77,44 @@ Email: [support@magecomp.com](mailto:support@magecomp.com)
 
 ## Other Magento 2 Extensions by MageComp
 
+[Magento 2 Inventory Sync SOAP API](https://magecomp.com/magento-2-inventory-sync-soap-api.html)
 
+[Magento 2 Alternate Hreflang Tags](https://magecomp.com/magento-2-alternate-hreflang-tags.html)
+
+[Magento 2 Maintenance Page Extension](https://magecomp.com/magento-2-maintenance-page.html)
+
+[Magento 2 Notification Bar Pro](https://magecomp.com/magento-2-notification-bar-pro.html)
+
+[Magento 2 CCAvenue Payment Gateway Extension](https://magecomp.com/magento-2-ccavenue-payment-gateway.html)
+
+[Magento 2 Abandoned Cart Email Extension](https://magecomp.com/magento-2-abandoned-cart-email.html)
+
+[Magento 2 Price Calculator](https://magecomp.com/magento-2-price-calculator.html)
+
+[Magento 2 Custom Options With Weight](https://magecomp.com/magento-2-custom-options-weight.html)
+
+[Magento 2 Mobile Login with Email Optional](https://magecomp.com/magento-2-mobile-login-email-optional.html)
+
+[Magento 2 Download Invoice PDF Extension](https://magecomp.com/magento-2-download-invoice-pdf.html)
+
+## Magento Marketplace Extension by MageComp
+
+[Sticky Add To Cart](https://marketplace.magento.com/magecomp-magento-2-sticky-add-to-cart.html)
+
+[Out of Stock at Last](https://marketplace.magento.com/magecomp-magento-2-out-of-stock-at-last.html)
+
+[Hreflang Language](https://marketplace.magento.com/magecomp-magento-2-hreflang-language.html)
+
+[Shoppable Instagram](https://marketplace.magento.com/magecomp-magento-2-instagram-shoppable.html)
+
+[Cash On Delivery Extra Fee](https://marketplace.magento.com/magecomp-magento-2-cash-on-delivery-extra-fee.html)
+
+[Instagram Integration Pro](https://marketplace.magento.com/magecomp-instapro.html)
+
+[Order Status](https://marketplace.magento.com/magecomp-module-orderstatus.html)
+
+[Axis Payment Gateway](https://marketplace.magento.com/magecomp-magento-2-axis-payment-gateway.html)
+
+[Coupon Code Link](https://marketplace.magento.com/magecomp-magento-2-coupon-code-link.html)
+
+[Custom Checkout Fields](https://marketplace.magento.com/magecomp-magento-2-custom-checkout-fields.html)
