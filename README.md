@@ -1,39 +1,59 @@
-# [Magento 2 Order Confirmation Email](https://magecomp.com/magento-2-order-confirmation-email.html) by MageComp
+# Magento 2 Order Confirmation Email Extension
 
-An order confirmation email is sent to your customer after successful payment is received by MageComp's Order Confirmation Email Extension for Magento 2.
+![Screenshot (18)](https://github.com/magecomp/magento-2-order-confirmation-email/assets/8856845/d2a79d5b-1780-4a5c-8518-e1af7bf71642)
+
+Magento 2 Order Confirmation The email extension sends sales emails to your customers only after the payment is successful.
 
 <a href="https://magecomp.com/magento-2-order-confirmation-email.html"><img width="300" height="92" src="https://magecomp.com/media/button.webp"></a>
 
-## Requirements
-* Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
+# Contribute & Explore Your Coding Skills
 
-## Main Features
+We're always interested in growing mutually by inviting developers & motivating them to contribute to our Magento 2 Order Confirmation Email module. Be ready to hit your keyboard keys & get listed today!
 
-* Send order confirmation email after successful payment
+<a href="https://github.com/magecomp/magento-2-order-confirmation-email/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=magecomp/magento-2-order-confirmation-email" />
+</a>
 
-* Email will be sent on register email ID. 
+# What About the Pricing?
 
-* Customize confirmation email after successful payment
+* It's completely FREE OF CHARGE.
 
-## Benefits
+# Compatibility with Magento Versions
 
-**1. User-friendly Backend**
+* Magento 2.2.0 - 2.4.6 (CE, EE, ECE)
 
-You can enable or disable extension from backend
+# Installing Via Composer
+  
+<img src="https://i.ibb.co/NjGRFCt/composer.png">
+Specify project dependencies using a JSON file & leave everything to Composer.
 
-**2. Third-party Payment Verification**
+# Compatible with Hyvä 
 
-It verifies third-party payment, before sending an email
+![Screenshot (20)](https://github.com/magecomp/magento2-mobile-login-free/assets/8856845/c0a5c632-fa58-4b84-bba4-2a3d26e4358e)
 
-**3. Send Confirmation Email**
+# Benefits
+* Stop Sending Default Sales Emails that Cause Ambiguity
+  
+* Payment Verification & Acknowledge Oder Acceptance
 
-Order confirmation email will be sent to the customer after successful payment
+* Send sales emails only after successful payment.
 
-Learn **[How to Set up Order Confirmation Email in Magento 2](https://magecomp.com/blog/configure-sales-email-order-confirmation-in-magento-2/)**
+* Acknowledge confirmation email to the registered billing email id.
 
-## Screenshots
+* Replace the default order confirmation email.
 
-**1. Configuration**
+# Features
+
+* You have the option to enable or disable the extension at any moment.
+
+* Check the payment status before sending the order confirmation email.
+
+* Remove any misunderstanding regarding order acceptance and processing.
+
+* Override the default sales email.
+
+# Configuration
+**1. Enable or disable the extension from here.**
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/1/_/1_configuration_12_42.webp)
 
@@ -45,76 +65,21 @@ Learn **[How to Set up Order Confirmation Email in Magento 2](https://magecomp.c
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/v/e/verifies_and_sends_order_confirmation_email.webp)
 
-For More Details: **[How to Send Order Confirmation Email After Successful Payment in Magento 2](https://magecomp.com/blog/send-order-confirmation-email-after-successful-payment-magento-2/)**
+# Support
 
-## Change Log
+Write to us at our [Support Portal](https://magecomp.com/support/) for queries about our Magento 2 extensions or services.
 
-**Version 1.0.3**
+# Contact Us
+**MageComp**
 
-- Compatible with the latest Magento 2.4.4 version
+**Head Quarters:** 304-305, Eva Surbhi Complex, Waghawadi Road, Bhavnagar, Gujarat (India)
 
-- Compatible with Magento Coding Standards
+**Branch:** 1212, Shilp Zaveri, Shyamal Cross Road, Satellite, Ahmedabad, Gujarat, India.
 
-**Version 1.0.2**
+**Representative office:** 9 Sunbird Crescent, Scarborough M1V3M6 (Canada)
 
-- Minor Bug Fixing
+**Phone:** +91 79902 50277
 
-**Version 1.0.1**
+**Email:** [support@magecomp.com](mailto:support@magecomp.com)
 
-- Compatible with Magento 2.3.3 Latest Magento version
-
-## Support
-
-In case of any queries about our extensions or services, feel free to write to us at our [Support Portal](https://magecomp.com/support/).
-
-## Contact us
-
-In case you would want to contact us, reach out to us at:
-
-Phone: +917990250277
-
-Email: [support@magecomp.com](mailto:support@magecomp.com)
-
-## Other Magento 2 Extensions by MageComp
-
-[Magento 2 Inventory Sync SOAP API](https://magecomp.com/magento-2-inventory-sync-soap-api.html)
-
-[Magento 2 Alternate Hreflang Tags](https://magecomp.com/magento-2-alternate-hreflang-tags.html)
-
-[Magento 2 Maintenance Page Extension](https://magecomp.com/magento-2-maintenance-page.html)
-
-[Magento 2 Notification Bar Pro](https://magecomp.com/magento-2-notification-bar-pro.html)
-
-[Magento 2 CCAvenue Payment Gateway Extension](https://magecomp.com/magento-2-ccavenue-payment-gateway.html)
-
-[Magento 2 Abandoned Cart Email Extension](https://magecomp.com/magento-2-abandoned-cart-email.html)
-
-[Magento 2 Price Calculator](https://magecomp.com/magento-2-price-calculator.html)
-
-[Magento 2 Custom Options With Weight](https://magecomp.com/magento-2-custom-options-weight.html)
-
-[Magento 2 Mobile Login with Email Optional](https://magecomp.com/magento-2-mobile-login-email-optional.html)
-
-[Magento 2 Download Invoice PDF Extension](https://magecomp.com/magento-2-download-invoice-pdf.html)
-
-## Magento Marketplace Extension by MageComp
-
-[Magento 2 Sticky Add To Cart](https://marketplace.magento.com/magecomp-magento-2-sticky-add-to-cart.html)
-
-[Magento 2 Out of Stock at Last](https://marketplace.magento.com/magecomp-magento-2-out-of-stock-at-last.html)
-
-[Magento 2 Hreflang Language](https://marketplace.magento.com/magecomp-magento-2-hreflang-language.html)
-
-[Magento 2 Shoppable Instagram](https://marketplace.magento.com/magecomp-magento-2-instagram-shoppable.html)
-
-[Magento 2 Cash On Delivery Extra Fee](https://marketplace.magento.com/magecomp-magento-2-cash-on-delivery-extra-fee.html)
-
-[Magento 2 Instagram Integration Pro](https://marketplace.magento.com/magecomp-instapro.html)
-
-[Magento 2 Order Status](https://marketplace.magento.com/magecomp-module-orderstatus.html)
-
-[Magento 2 Axis Payment Gateway](https://marketplace.magento.com/magecomp-magento-2-axis-payment-gateway.html)
-
-[Magento 2 Coupon Code Link](https://marketplace.magento.com/magecomp-magento-2-coupon-code-link.html)
-
-[Magento 2 Custom Checkout Fields](https://marketplace.magento.com/magecomp-magento-2-custom-checkout-fields.html)
+<img src="https://magecomp.com/media/logo/websites/1/Magecomp_Logo_251x51.png">
